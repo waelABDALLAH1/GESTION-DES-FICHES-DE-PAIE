@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1672483247 source:c:\enit 1ere\mini projet c\seance 4\miniprojetv1912\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+	<time.h>
+	<ctype.h>
+	<conio.h>
+
+1671827792 c:\enit 1ere\mini projet c\seance 4\miniprojetv1912\gestion.h
+	"structure.h"
+
+1671614907 c:\enit 1ere\mini projet c\seance 4\miniprojetv1912\structure.h
+
+1671656375 source:c:\enit 1ere\mini projet c\seance 4\miniprojetv1912\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion.h"
+	<time.h>
+	<string.h>
+
+1672781521 source:c:\users\user\onedrive\bureau\miniprojetv1912\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion.h"
+	<time.h>
+	<string.h>
+
+1671827792 c:\users\user\onedrive\bureau\miniprojetv1912\gestion.h
+	"structure.h"
+
+1671614907 c:\users\user\onedrive\bureau\miniprojetv1912\structure.h
+
+1672781395 source:c:\users\user\onedrive\bureau\miniprojetv1912\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+	<time.h>
+	<ctype.h>
+	<conio.h>
+
+1673686097 source:c:\users\user\onedrive\bureau\4waelabdallahamineziadi\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+	<time.h>
+	<ctype.h>
+	<conio.h>
+
+1671827792 c:\users\user\onedrive\bureau\4waelabdallahamineziadi\gestion.h
+	"structure.h"
+
+1671614907 c:\users\user\onedrive\bureau\4waelabdallahamineziadi\structure.h
+
+1673684367 source:c:\users\user\onedrive\bureau\4waelabdallahamineziadi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion.h"
+	<time.h>
+	<string.h>
+
